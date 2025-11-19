@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am<br>- Disciplined<br>- Ambitious<br>- Punctual.<br>-Passionate Embedded Systems graduate researcher<br>at FAU Erlangen-Nürnberg
+I am a<br>-Passionate Embedded Systems graduate researcher<br>at FAU Erlangen-Nürnberg
 
 
 ## 🌐 Socials:
