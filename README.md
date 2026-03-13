@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a<br>-Passionate Embedded Systems graduate researcher<br>at FAU Erlangen-Nürnberg
+MSc ICT student at FAU Erlangen-Nürnberg specializing in Embedded Systems.
+Building practical skills in embedded software, signal processing, computer vision, and device-oriented systems.
+Interested in work opportunities in embedded, medical technology, sensing, and hardware-near software. Focused on embedded software, signal processing, perception, and device-oriented engineering. Interested in medical technology, sensing systems, and real-time applications.
 
 
 ## 🌐 Socials:
