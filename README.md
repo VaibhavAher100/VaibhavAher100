@@ -1,10 +1,12 @@
 # 💫 About Me
 
-MSc ICT student at FAU Erlangen-Nürnberg specializing in Embedded Systems.
-Building practical skills in embedded software, signal processing, computer vision, and device-oriented systems.
-Interested in opportunities in embedded software, medical technology, sensing systems, and real-time applications.
+Built bare-metal STM32 firmware from scratch - register-level I2C drivers,
+FreeRTOS scheduler, MISRA-C, hardware-verified BPM and temperature sensing
+with no HAL dependencies. Also built a real-time object orientation tracker
+on Raspberry Pi 5 using OpenCV.
 
-🔍 **Currently looking for:** Working student roles, internships, or thesis positions in embedded / hardware-near software (Erlangen / remote / Germany-wide)
+MSc ICT at FAU Erlangen-Nürnberg (embedded systems). Based in Erlangen.
+Open to Werkstudent and thesis positions across Germany.
 
 📬 **Reach me:** [LinkedIn](https://linkedin.com/in/vaibhav-aher-v100)
 
@@ -23,7 +25,7 @@ Interested in opportunities in embedded software, medical technology, sensing sy
 
 **Embedded & Hardware**
 
-![STM32](https://img.shields.io/badge/STM32-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ARM](https://img.shields.io/badge/ARM-%230091BD.svg?style=for-the-badge&logo=arm&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%23003153.svg?style=for-the-badge&logo=freertos&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![QEMU](https://img.shields.io/badge/QEMU-%23FF6600.svg?style=for-the-badge&logo=qemu&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ARM](https://img.shields.io/badge/ARM-%230091BD.svg?style=for-the-badge&logo=arm&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%23003153.svg?style=for-the-badge&logo=freertos&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Protocols & Interfaces**
 
