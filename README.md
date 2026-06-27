@@ -26,15 +26,6 @@ What pulls me now is getting small devices to know where they are. At FAU's LIKE
 
 **Firmware practices** · bare-metal (no HAL) · register-level drivers · real-time / interrupt-driven · linker scripts + startup · unit testing (Unity) · static analysis (Cppcheck) · MISRA-C · IEC 62304 traceability
 
-## GitHub
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=VaibhavAher100&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=c0451f&icon_color=d1542a&text_color=c9c2b6&bg_color=140a09" alt="GitHub stats"></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavAher100&layout=compact&hide_border=true&langs_count=8&title_color=c0451f&text_color=c9c2b6&bg_color=140a09" alt="Top languages"></td>
-</tr>
-</table>
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-aher-v100) [![Email](https://img.shields.io/badge/Email-c0451f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavaher100@gmail.com)
