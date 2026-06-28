@@ -2,11 +2,11 @@
 
 ### Vaibhav Aher
 
-`📍 Erlangen, Germany`  ·  `⏳ ~20 h/week in semester, full-time in breaks`  ·  `🗣️ English (fluent) · German (A2, working toward B1)`
+`📍 Erlangen, Germany` 
 
 I work on embedded systems at FAU Erlangen, and I like getting as close to the hardware as it gets. I write bare-metal STM32 firmware, register-level, no HAL, down to my own linker scripts, and most of the job turns out to be convincing a chip that I've actually read the same datasheet it has.
 
-What pulls me now is getting small devices to know where they are. At FAU's LIKE chair I'm helping build an indoor-localization lab (BLE, RSSI, ROS2 robots), and on my own bench there's a Pico messenger running mioty over a sub-GHz radio. Firmware stays the foundation; localization is the problem I want to point it at. Looking for a Werkstudent role around Erlangen or Nürnberg where I can do exactly that.
+What pulls me now is getting small devices to know where they are. At FAU's LIKE chair I'm helping build an indoor-localization lab (BLE, RSSI, ROS2 robots), and on my own bench there's a Pico messenger running mioty over a sub-GHz radio. Firmware stays the foundation; localization is the problem I want to point it at.
 
 ## Stack
 
@@ -30,4 +30,4 @@ What pulls me now is getting small devices to know where they are. At FAU's LIKE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-aher-v100) [![Email](https://img.shields.io/badge/Email-c0451f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavaher100@gmail.com)
 
-Open to Werkstudent and thesis roles in embedded systems - Erlangen / DE.
+Open to Werkstudent and thesis roles in embedded systems across germany.  ·  `⏳ ~20 h/week in semester, full-time in breaks`  ·  `🗣️ English (fluent) · German (A2, working toward B1)`
